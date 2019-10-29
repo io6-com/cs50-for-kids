@@ -3,4 +3,4 @@ lab50:
     - readme
   files:
     - !exclude "*"
-    - !include hello.py   
+    - !include hello2.py   
