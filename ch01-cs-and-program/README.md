@@ -109,3 +109,4 @@ $$
   * The second solution, two pages at a time, is like the yellow line: our slope is less steep, but still linear.
   * Our final solution, is like the green line: logarithmic, since our time to solve rises more and more slowly as the size of the problem increases. In other words, if the phone book went from 1000 to 2000 pages, we would need one more step to find Mike. If the size doubled again from 2000 to 4000 pages, we would still only need one more step.
 
+
