@@ -4,7 +4,7 @@
 
 因为计算机工作起来很快，也不需要睡觉。会编程就掌握了计算机所说的语言，就可以和计算机沟通交流，让它为你做想做的事了。看一段视频吧
 
-{% video https://www.bilibili.com/video/av24525184? %}
+{% video https://www.bilibili.com/video/av24525184 %}
 
 ## 为什么要学编程 -- 给小朋友爸爸妈妈看的
 
