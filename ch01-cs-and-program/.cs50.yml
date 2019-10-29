@@ -2,3 +2,6 @@ lab50:
   window:
     - readme
     - editor     
+  files:
+    - !exclude "*"
+    - !include hello.py
