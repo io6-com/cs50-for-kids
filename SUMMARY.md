@@ -33,21 +33,21 @@
 
 * [for循环](ch05-loops/for-xun-huan.md)
 
-## 数据结构 <a id="06-data-structures"></a>
+## 数据结构 <a id="ch06-data-structures"></a>
 
-* [再谈List](06-data-structures/zai-tan-list.md)
-* [Set](06-data-structures/set.md)
-* [Dict](06-data-structures/dict.md)
+* [再谈List](ch06-data-structures/zai-tan-list.md)
+* [Set](ch06-data-structures/set.md)
+* [Dict](ch06-data-structures/dict.md)
 
-## Functions <a id="07-functions"></a>
+## Functions <a id="ch07-functions"></a>
 
-* [Untitled](07-functions/untitled.md)
+* [Untitled](ch07-functions/untitled.md)
 
-## 输入和输出 <a id="08-input-and-output"></a>
+## 输入和输出 <a id="ch08-input-and-output"></a>
 
-* [Untitled](08-input-and-output/untitled.md)
+* [Untitled](ch08-input-and-output/untitled.md)
 
-## Classes and Objects <a id="09-classes-and-objects"></a>
+## Classes and Objects <a id="ch09-classes-and-objects"></a>
 
-* [Untitled](09-classes-and-objects/untitled.md)
+* [Untitled](ch09-classes-and-objects/untitled.md)
 
