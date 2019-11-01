@@ -2,8 +2,7 @@
 
 ## 为什么要学编程 -- 给小朋友看的
 
-因为计算机工作起来很快，也不需要睡觉。会编程就掌握了计算机所说的语言，就可以和计算机沟通交流，让它为你做想做的事了。看一段视频吧
-[![Youtube](https://img.youtube.com/vi/bY6m6_IIN94/0.jpg)](https://www.youtube.com/watch?v=bY6m6_IIN94)
+因为计算机工作起来很快，也不需要睡觉。会编程就掌握了计算机所说的语言，就可以和计算机沟通交流，让它为你做想做的事了。看一段视频吧 [![Youtube](https://img.youtube.com/vi/bY6m6_IIN94/0.jpg)](https://www.youtube.com/watch?v=bY6m6_IIN94)
 
 ## 为什么要学编程 -- 给小朋友爸爸妈妈看的
 
