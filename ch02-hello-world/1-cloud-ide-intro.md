@@ -28,7 +28,7 @@ python hello.py
 
 ![](../.gitbook/assets/hello-python.png)
 
-这种叫交互式方式（Interactive Mode），适用于编写简单的比较简短的程序。
+这种叫交互式方式（Interactive Mode），适用于编写简单的比较简短的程序。我们前面的章节大部分都会用这种在解释器上直接交互式编写的方式来编程，后面等程序稍微复杂时候，我们会切换到到代码区编写程序，然后使用命令python执行我们的程序。
 
 ```python
 Python 3.7.3 (default, Sep 18 2019, 02:47:17) 
@@ -38,5 +38,9 @@ Type "help", "copyright", "credits" or "license" for more information.
 Hello, Python
 ```
 
-这里，前三行包含了Python解释器的版本信息以及运行的操作系统信息。第四行的“&gt;&gt;&gt;” 是个提示符（prompt），表示你可以在此编写代码了。编写后回车（Enter）即可看到程序的运行结果。
+这里，前三行包含了Python解释器的版本信息以及运行的操作系统信息。第四行的“&gt;&gt;&gt;” 是个提示符（prompt），表示你可以在此编写代码了。编写后回车（Enter）即可看到程序的运行结果。如果要退出Python解释器，打exit\(\)命令即可。
+
+```python
+>>> exit()
+```
 
