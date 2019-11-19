@@ -51,3 +51,7 @@
 
 * [Untitled](ch09-classes-and-objects/untitled.md)
 
+## Some thoughts
+
+* [Untitled](some-thoughts/untitled.md)
+
