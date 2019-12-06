@@ -5,4 +5,6 @@
 3. Online IDE: [https://ide.cs50.io/](https://ide.cs50.io/)
 4. 直播：mediasoup
 5. data structure visualize: [https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+6. 声网E-education方案：[https://github.com/AgoraIO-Usecase/eEducation\#using](https://github.com/AgoraIO-Usecase/eEducation#using)
+7. 互动电子书 [https://runestone.academy/runestone/default/user/login?\_next=/runestone/default/index](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index)
 
