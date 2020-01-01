@@ -10,3 +10,5 @@ The best way to learn to program is to line by line type out the desired code. U
 
 本书主要是写给我刚满9岁的儿子看的。同时也希望本教程能给不懂编程的父母讲懂编程，享受亲子编程的快乐。和大多数人一样，我儿子通常会跳过每本书的前言部分，所以我们进入正题吧。
 
+This book is mainly dedicated to my 9 year old son to read. Meanwhile also  wishing this course will give parents who don't know how to code to have the opportunity to understand coding, enjoy the fun of family time coding. Like most people, my son will skip all the books foreword section of the book, so let's get into the main section of the book now.
+

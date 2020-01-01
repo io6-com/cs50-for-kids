@@ -4,7 +4,7 @@
 
 ## 介绍 <a id="ch00-introduction"></a>
 
-* [为什么学编程](ch00-introduction/1-why-programming.md)
+* [为什么学编程 Why We Should Learn How to Code](ch00-introduction/1-why-programming.md)
 * [为什么学Python](ch00-introduction/2-why-python.md)
 
 ## 计算机和程序在搞什么 <a id="ch01-cs-and-program"></a>
