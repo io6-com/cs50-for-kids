@@ -4,7 +4,7 @@
 
 因为计算机工作起来很快，也不需要睡觉。会编程就掌握了计算机所说的语言，就可以和计算机沟通交流，让它为你做想做的事了。看一段视频吧 YouTube: [![Youtube](https://img.youtube.com/vi/bY6m6_IIN94/0.jpg)](https://www.youtube.com/watch?v=bY6m6_IIN94)
 
-Computers work really fast, also they don't need to rest.If you know how to code then you could understand the language of computers, so you could communicate with computers. Let's look at a video.
+Computers work really fast, also they don't need to rest. If you know how to code then you can understand the language of computers, so you can communicate with computers. Let's watch a video.
 
 YouTube: [https://www.youtube.com/watch?v=bY6m6\_IIN94](https://www.youtube.com/watch?v=bY6m6_IIN94)
 
