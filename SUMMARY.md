@@ -1,6 +1,6 @@
 # Table of contents
 
-* [前言](README.md)
+* [前言 Foreword](README.md)
 
 ## 介绍 <a id="ch00-introduction"></a>
 
